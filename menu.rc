@@ -1,0 +1,19 @@
+#include "menu.h"
+#include <windows.h>
+#include <CommCtrl.h>
+
+MYMENU MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Open",                       IDM_OPEN
+        MENUITEM SEPARATOR
+        MENUITEM "&Exit",                       IDM_EXIT
+    END
+    POPUP "&Mode"
+    BEGIN
+        MENUITEM "&Default",                    IDM_DEFAULT, CHECKED
+        MENUITEM "&Justify",                    IDM_JUSTIFY
+    END
+END
+

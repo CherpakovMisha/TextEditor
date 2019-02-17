@@ -1,0 +1,1195 @@
+# depslib dependency file v1.0
+1449171043 source:e:\documents\codeblocks\texted\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"window_data.h"
+	"dialog.h"
+
+1449171797 e:\documents\codeblocks\texted\menu.h
+	"text_data.h"
+
+1449171787 e:\documents\codeblocks\texted\window_data.h
+
+1449171788 e:\documents\codeblocks\texted\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1449171805 e:\documents\codeblocks\texted\text_utility.h
+	"text_data.h"
+
+1449170945 e:\documents\codeblocks\texted\text_scroll.h
+	"window_data.h"
+
+1449170942 e:\documents\codeblocks\texted\text_caret.h
+	"window_data.h"
+
+1449171206 source:e:\documents\codeblocks\texted\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1449171811 source:e:\documents\codeblocks\texted\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1444901206 e:\documents\codeblocks\texted\resource.h
+
+1447402700 source:e:\documents\codeblocks\texted\text_caret.c
+	"text_caret.h"
+	"text_data.h"
+
+1447402700 source:e:\documents\codeblocks\texted\text_scroll.c
+	<windows.h>
+	<math.h>
+	"text_utility.h"
+	"text_data.h"
+	"text_scroll.h"
+	"text_caret.h"
+
+1449171709 source:e:\documents\codeblocks\texted\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1446203440 source:i:\codeblocks\texted\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"text_scroll.h"
+	"text_caret.h"
+	"window_data.h"
+
+1446164320 i:\codeblocks\texted\menu.h
+	"window_data.h"
+
+1446202220 i:\codeblocks\texted\window_data.h
+	<Windows.h>
+
+1446202410 i:\codeblocks\texted\text_data.h
+	<Windows.h>
+
+1446202240 i:\codeblocks\texted\text_utility.h
+	"window_data.h"
+
+1446168802 i:\codeblocks\texted\text_scroll.h
+	"window_data.h"
+
+1446165038 i:\codeblocks\texted\text_caret.h
+	"window_data.h"
+
+1446203596 source:i:\codeblocks\texted\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+
+1444905172 source:i:\codeblocks\texted\menu.rc
+	"resource.h"
+
+1444904806 i:\codeblocks\texted\resource.h
+
+1446201556 source:i:\codeblocks\texted\text_caret.c
+	"text_caret.h"
+	"text_data.h"
+
+1446192312 source:i:\codeblocks\texted\text_scroll.c
+	<windows.h>
+	<math.h>
+	"text_utility.h"
+	"text_data.h"
+	"text_scroll.h"
+	"text_caret.h"
+
+1446201106 source:i:\codeblocks\texted\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+	"text_caret.h"
+
+1449171197 source:e:\documents\codeblocks\texted\gialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"window_data.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1447362132 e:\documents\codeblocks\texted\dialog.h
+
+1449509703 source:c:\users\leonid\downloads\texted (1)\gialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1447362132 c:\users\leonid\downloads\texted (1)\dialog.h
+
+1449171788 c:\users\leonid\downloads\texted (1)\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1449753113 c:\users\leonid\downloads\texted (1)\text_utility.h
+	"text_data.h"
+
+1449171797 c:\users\leonid\downloads\texted (1)\menu.h
+	"text_data.h"
+
+1449171206 source:c:\users\leonid\downloads\texted (1)\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1449171811 source:c:\users\leonid\downloads\texted (1)\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1449753965 source:c:\users\leonid\downloads\texted (1)\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1449753765 source:c:\users\leonid\downloads\texted (1)\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"dialog.h"
+
+1449509703 source:c:\users\leonid\desktop\textedit\gialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1447362132 c:\users\leonid\desktop\textedit\dialog.h
+
+1449756215 c:\users\leonid\desktop\textedit\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1449755548 c:\users\leonid\desktop\textedit\text_utility.h
+	"text_data.h"
+
+1449171797 c:\users\leonid\desktop\textedit\menu.h
+	"text_data.h"
+
+1449755577 source:c:\users\leonid\desktop\textedit\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"dialog.h"
+
+1449171206 source:c:\users\leonid\desktop\textedit\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1449756924 source:c:\users\leonid\desktop\textedit\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1449758559 source:c:\users\leonid\desktop\textedit\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1449509703 source:c:\users\Леонид\desktop\winapitseytlin\gialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1447362132 c:\users\Леонид\desktop\winapitseytlin\dialog.h
+
+1449756215 c:\users\Леонид\desktop\winapitseytlin\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1449755548 c:\users\Леонид\desktop\winapitseytlin\text_utility.h
+	"text_data.h"
+
+1449171797 c:\users\Леонид\desktop\winapitseytlin\menu.h
+	"text_data.h"
+
+1449755577 source:c:\users\Леонид\desktop\winapitseytlin\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"dialog.h"
+
+1449171206 source:c:\users\Леонид\desktop\winapitseytlin\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1449756924 source:c:\users\Леонид\desktop\winapitseytlin\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1449766159 source:c:\users\Леонид\desktop\winapitseytlin\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1449779129 source:c:\users\leonid\desktop\winapitseytlin\gialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1449779129 c:\users\leonid\desktop\winapitseytlin\dialog.h
+
+1449818155 c:\users\leonid\desktop\winapitseytlin\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1449779129 c:\users\leonid\desktop\winapitseytlin\text_utility.h
+	"text_data.h"
+
+1449818155 c:\users\leonid\desktop\winapitseytlin\menu.h
+	"text_data.h"
+
+1449779129 source:c:\users\leonid\desktop\winapitseytlin\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"dialog.h"
+
+1449818155 source:c:\users\leonid\desktop\winapitseytlin\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1449779129 source:c:\users\leonid\desktop\winapitseytlin\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1449779648 source:c:\users\leonid\desktop\winapitseytlin\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1449779129 source:c:\users\leonid\desktop\winapitseytlin\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1455168804 source:c:\users\leonid\desktop\Еыунедшт\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1455168804 c:\users\leonid\desktop\Еыунедшт\dialog.h
+
+1455168804 c:\users\leonid\desktop\Еыунедшт\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1455168804 c:\users\leonid\desktop\Еыунедшт\text_utility.h
+	"text_data.h"
+
+1455168883 c:\users\leonid\desktop\Еыунедшт\menu.h
+	"text_data.h"
+
+1455168804 source:c:\users\leonid\desktop\Еыунедшт\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"dialog.h"
+
+1455176053 source:c:\users\leonid\desktop\Еыунедшт\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1455168804 source:c:\users\leonid\desktop\Еыунедшт\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1455168804 source:c:\users\leonid\desktop\Еыунедшт\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1455168804 source:c:\users\leonid\desktop\tseytlin\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1455168804 c:\users\leonid\desktop\tseytlin\dialog.h
+
+1455168804 c:\users\leonid\desktop\tseytlin\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1455179385 c:\users\leonid\desktop\tseytlin\text_utility.h
+	"text_data.h"
+
+1455168883 c:\users\leonid\desktop\tseytlin\menu.h
+	"text_data.h"
+
+1455168804 source:c:\users\leonid\desktop\tseytlin\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"dialog.h"
+
+1455179272 source:c:\users\leonid\desktop\tseytlin\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1455168804 source:c:\users\leonid\desktop\tseytlin\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1455198601 source:c:\users\leonid\desktop\tseytlin\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1455783510 source:c:\users\margo\desktop\tseytlin\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_data.h"
+	"text_utility.h"
+	"menu.h"
+
+1455783510 c:\users\margo\desktop\tseytlin\dialog.h
+
+1455783510 c:\users\margo\desktop\tseytlin\text_data.h
+	<Windows.h>
+	<Windows.h>
+
+1455783510 c:\users\margo\desktop\tseytlin\text_utility.h
+	"text_data.h"
+
+1455783510 c:\users\margo\desktop\tseytlin\menu.h
+	"text_data.h"
+
+1455783903 source:c:\users\margo\desktop\tseytlin\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_data.h"
+	"text_utility.h"
+	"dialog.h"
+
+1455783957 source:c:\users\margo\desktop\tseytlin\menu.c
+	<stdio.h>
+	"text_utility.h"
+	"text_data.h"
+	"menu.h"
+	"dialog.h"
+
+1455168804 source:c:\users\margo\desktop\tseytlin\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1455783510 source:c:\users\margo\desktop\tseytlin\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1455798319 source:c:\users\margo\desktop\textedit\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1455783510 c:\users\margo\desktop\textedit\dialog.h
+
+1455797628 c:\users\margo\desktop\textedit\text_data.h
+	<Windows.h>
+
+1455790468 c:\users\margo\desktop\textedit\text_utility.h
+	"text_data.h"
+
+1455798321 c:\users\margo\desktop\textedit\menu.h
+	"text_structs.h"
+
+1455798301 source:c:\users\margo\desktop\textedit\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1455798300 source:c:\users\margo\desktop\textedit\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1455168804 source:c:\users\margo\desktop\textedit\menu.rc
+	"menu.h"
+	<Windows.h>
+
+1455797494 source:c:\users\margo\desktop\textedit\text_utility.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_utility.h"
+	"text_data.h"
+
+1455797628 c:\users\margo\desktop\textedit\text_structs.h
+	<Windows.h>
+
+1455798394 c:\users\margo\desktop\textedit\text_functions.h
+	"text_structs.h"
+
+1455798676 source:c:\users\margo\desktop\textedit\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1456451096 source:c:\users\egor\desktop\textedit\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1456443779 c:\users\egor\desktop\textedit\dialog.h
+	"text_structs.h"
+
+1456447090 c:\users\egor\desktop\textedit\text_structs.h
+	<Windows.h>
+
+1456443779 c:\users\egor\desktop\textedit\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1456445157 c:\users\egor\desktop\textedit\menu.h
+	"text_structs.h"
+
+1456452134 source:c:\users\egor\desktop\textedit\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456439683 source:c:\users\egor\desktop\textedit\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1456451754 source:c:\users\egor\desktop\textedit\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1456451488 source:c:\users\egor\desktop\textedit\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1456710412 source:g:\textedit\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1456445157 g:\textedit\menu.h
+	"text_structs.h"
+
+1456716047 g:\textedit\text_structs.h
+	<Windows.h>
+
+1456704587 g:\textedit\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1456443779 g:\textedit\dialog.h
+	"text_structs.h"
+
+1456439683 source:g:\textedit\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1456717137 source:g:\textedit\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1456701188 source:g:\textedit\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1456707480 source:g:\textedit\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456451096 source:f:\textedit\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1456443779 f:\textedit\dialog.h
+	"text_structs.h"
+
+1456447090 f:\textedit\text_structs.h
+	<Windows.h>
+
+1456443779 f:\textedit\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1456445157 f:\textedit\menu.h
+	"text_structs.h"
+
+1456473847 source:f:\textedit\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1456439683 source:f:\textedit\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1456475804 source:f:\textedit\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1456489717 source:f:\textedit\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456701188 source:g:\textedit final\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1456443779 g:\textedit final\dialog.h
+	"text_structs.h"
+
+1456716047 g:\textedit final\text_structs.h
+	<Windows.h>
+
+1456704587 g:\textedit final\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1456445157 g:\textedit final\menu.h
+	"text_structs.h"
+
+1456710412 source:g:\textedit final\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1456707480 source:g:\textedit final\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456439683 source:g:\textedit final\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1456717137 source:g:\textedit final\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1457007927 source:f:\textedit find\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1457012822 f:\textedit find\menu.h
+	"text_structs.h"
+
+1457008953 f:\textedit find\text_structs.h
+	<Windows.h>
+
+1456704587 f:\textedit find\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1456443779 f:\textedit find\dialog.h
+	"text_structs.h"
+
+1457008983 source:f:\textedit find\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456439683 source:f:\textedit find\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1457015632 source:f:\textedit find\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1456741350 source:f:\textedit find\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1457007927 source:g:\textedit find\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1457012822 g:\textedit find\menu.h
+	"text_structs.h"
+
+1457008953 g:\textedit find\text_structs.h
+	<Windows.h>
+
+1456704587 g:\textedit find\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1456443779 g:\textedit find\dialog.h
+	"text_structs.h"
+
+1457008983 source:g:\textedit find\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456439683 source:g:\textedit find\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1457015632 source:g:\textedit find\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1456741350 source:g:\textedit find\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1456737720 source:c:\documents and settings\Павел\Рабочий стол\textedit find\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1456440180 c:\documents and settings\Павел\Рабочий стол\textedit find\dialog.h
+	"text_structs.h"
+
+1457005320 c:\documents and settings\Павел\Рабочий стол\textedit find\text_structs.h
+	<Windows.h>
+
+1456700940 c:\documents and settings\Павел\Рабочий стол\textedit find\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1457009220 c:\documents and settings\Павел\Рабочий стол\textedit find\menu.h
+	"text_structs.h"
+
+1457004300 source:c:\documents and settings\Павел\Рабочий стол\textedit find\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1457005380 source:c:\documents and settings\Павел\Рабочий стол\textedit find\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456436040 source:c:\documents and settings\Павел\Рабочий стол\textedit find\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1457011980 source:c:\documents and settings\Павел\Рабочий стол\textedit find\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1459495823 source:c:\documents and settings\Павел\Рабочий стол\textedit\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1459450510 c:\documents and settings\Павел\Рабочий стол\textedit\dialog.h
+	"text_structs.h"
+
+1459450510 c:\documents and settings\Павел\Рабочий стол\textedit\text_structs.h
+	<Windows.h>
+
+1456700940 c:\documents and settings\Павел\Рабочий стол\textedit\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1457009220 c:\documents and settings\Павел\Рабочий стол\textedit\menu.h
+	"text_structs.h"
+
+1459497257 source:c:\documents and settings\Павел\Рабочий стол\textedit\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1459495823 source:c:\documents and settings\Павел\Рабочий стол\textedit\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456436040 source:c:\documents and settings\Павел\Рабочий стол\textedit\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1459497341 source:c:\documents and settings\Павел\Рабочий стол\textedit\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1459495823 source:c:\users\Администратор\desktop\Новая папка\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+	"dialog.h"
+
+1456700940 c:\users\Администратор\desktop\Новая папка\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1459450510 c:\users\Администратор\desktop\Новая папка\text_structs.h
+	<Windows.h>
+
+1541772829 c:\users\Администратор\desktop\Новая папка\menu.h
+	"text_structs.h"
+
+1459450510 c:\users\Администратор\desktop\Новая папка\dialog.h
+	"text_structs.h"
+
+1456436040 source:c:\users\Администратор\desktop\Новая папка\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1459513997 source:c:\users\Администратор\desktop\Новая папка\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1541194617 source:c:\users\Администратор\desktop\Новая папка\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1541193995 source:c:\users\Администратор\desktop\Новая папка\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+	"dialog.h"
+
+1541772829 source:c:\users\Администратор\desktop\Новая папка - копия\dialog.c
+	<windows.h>
+	<string.h>
+	"dialog.h"
+	"text_structs.h"
+	"text_functions.h"
+	"menu.h"
+
+1459450510 c:\users\Администратор\desktop\Новая папка - копия\dialog.h
+	"text_structs.h"
+
+1542389805 c:\users\Администратор\desktop\Новая папка - копия\text_structs.h
+	<Windows.h>
+
+1542389427 c:\users\Администратор\desktop\Новая папка - копия\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1541779313 c:\users\Администратор\desktop\Новая папка - копия\menu.h
+	"text_structs.h"
+
+1542389736 source:c:\users\Администратор\desktop\Новая папка - копия\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+
+1541848913 source:c:\users\Администратор\desktop\Новая папка - копия\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+
+1541781992 source:c:\users\Администратор\desktop\Новая папка - копия\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1542389427 source:c:\users\Администратор\desktop\Новая папка - копия\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1542390232 source:c:\users\Администратор\desktop\v1\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+
+1541779313 c:\users\Администратор\desktop\v1\menu.h
+	"text_structs.h"
+
+1542390539 c:\users\Администратор\desktop\v1\text_structs.h
+	<Windows.h>
+
+1542389427 c:\users\Администратор\desktop\v1\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1541848913 source:c:\users\Администратор\desktop\v1\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+
+1541781992 source:c:\users\Администратор\desktop\v1\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1542390132 source:c:\users\Администратор\desktop\v1\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1542449893 source:c:\users\Администратор\desktop\1\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+
+1541779313 c:\users\Администратор\desktop\1\menu.h
+	"text_structs.h"
+
+1542456501 c:\users\Администратор\desktop\1\text_structs.h
+	<Windows.h>
+
+1542449254 c:\users\Администратор\desktop\1\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1541848913 source:c:\users\Администратор\desktop\1\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+
+1541781992 source:c:\users\Администратор\desktop\1\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1542455036 source:c:\users\Администратор\desktop\1\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
+1544274024 source:c:\users\Администратор\desktop\С кареткой\main.c
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"menu.h"
+	"text_structs.h"
+	"text_functions.h"
+
+1541779313 c:\users\Администратор\desktop\С кареткой\menu.h
+	"text_structs.h"
+
+1544863565 c:\users\Администратор\desktop\С кареткой\text_structs.h
+	<Windows.h>
+
+1543059899 c:\users\Администратор\desktop\С кареткой\text_functions.h
+	"text_structs.h"
+	<stdio.h>
+
+1544273930 source:c:\users\Администратор\desktop\С кареткой\menu.c
+	<stdio.h>
+	"text_functions.h"
+	"text_structs.h"
+	"menu.h"
+
+1541781992 source:c:\users\Администратор\desktop\С кареткой\menu.rc
+	"menu.h"
+	<windows.h>
+	<CommCtrl.h>
+
+1543665102 source:c:\users\Администратор\desktop\С кареткой\text_functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<string.h>
+	"text_functions.h"
+	"text_structs.h"
+
